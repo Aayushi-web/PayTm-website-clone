@@ -94,12 +94,12 @@ font-size: 21px;
 }
 .sec{
     margin-top: 150px;
-    background-color: rgb(31, 142, 197);
+    background-color: rgb(53, 188, 255);
     height: 70vh;
 }
 .sec1{
  
-    background-color: rgba(50, 115, 255, 0.897);
+    background-color:rgba(23, 70, 171, 0.9);
     height: 70vh;
 }
 .container{
@@ -171,3 +171,13 @@ width: 90px;
     align-items: center;
     font-family: Inter,sans-serif; 
 }
+h2.nextp{
+    font-size: 36px;
+    color: rgb(0 0 0);
+    font-weight: 700;
+    margin-left: 193px;
+    align-items: center;
+    font-family: Inter,sans-serif; 
+}
+
+
