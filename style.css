@@ -30,7 +30,7 @@ ul li{
 }
 p.learn-more{
     text-align: center;
-    margin-top: 5px;
+    margin-top: 15px;
 }
 .content{
     background-color: white;
@@ -91,4 +91,20 @@ font-size: 21px;
 }
 .btn-down p:hover{
     color: black; 
+}
+.sec{
+    margin-top: 200px;
+    background-color: aquamarine;
+    
+}
+.container{
+    display: grid;
+grid-template-columns:repeat(6,1fr) ;
+column-gap: 20px;
+grid-auto-columns: minmax(100px,auto);
+}
+.cont{
+    background-color: rgb(237, 243, 243);
+  border-radius:  20px;
+   
 }
