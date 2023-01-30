@@ -68,14 +68,27 @@ font-size: 21px;
     line-height: 35px;
 }
 .btn-down{
-    border: 3px solid #0071d4;
-    width: 218px;
+    border: 3px solid #f6f7f8;
+    width: 222px;
     height: 39px;
     border-radius: 45px;
-  
+    margin-left: 102px;
     margin-top: 39px;
-    padding: 6px;
+    background-color: black;
+  
 }
-.btn-down a{
-    
+.btn-down:hover{
+    cursor: pointer;
+    background-color: white;
+    border: 3px solid #050607;
+}
+
+
+.btn-down p{
+    margin-top: 9px;
+    margin-left: 33px;
+    color: #f6f7f8;
+}
+.btn-down p:hover{
+    color: black; 
 }
