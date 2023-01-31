@@ -179,3 +179,6 @@ h2.nextp{
     align-items: center;
     font-family: Inter,sans-serif; 
 }
+.section{
+    background-color: red;
+}
