@@ -179,24 +179,3 @@ h2.nextp{
     align-items: center;
     font-family: Inter,sans-serif; 
 }
-.sec1{
-    display: flex;
-}
-
-img.next-img{
-    width: 364px;
-
-}
-.sec4{
-    margin-top: 216px;
-}
-.sec2 img{
-    width: 99px;
-    margin-top: 56px;
-    margin-left: 110px;  
-}
-section.next{
-    width: 100vw;
-    height: 100vh;
-    background-color: rgb(241, 241, 241);
-}
